@@ -8,7 +8,7 @@ The Hamburg Wheel Machine (HWM) is a well-established testing device specificall
 The HWTBench dataset offers a valuable resource for researchers, engineers, and data scientists working on machine-learning models for asphalt performance prediction and material analysis. This dataset allows users to develop and validate novel algorithms, models, and techniques for asphalt quality assessment and prediction.
 
 ## Dataset Title: 😀👌
-CONCORNET2023: Corroded concrete Image dataset for machine learning and deep learning applications.
+HWTBench (Hamburg Wheel Tracking on Asphalt Samples Dataset for ML Benchmarking)
 
 ## Researchers 🧑‍🔬
 - *Dr. José A. Guzmán-Torres* <br />
@@ -33,3 +33,8 @@ https://orcid.org/0000-0003-3119-770X
 
 - *M.C. José O. Melchor-Barriga* <br />
 <br />
+
+## Description of files: ✍️
+The repository contains a directory named Images, which contains the asphalt sample images tested by the HWM. In three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension.
+
+Also, this repository stores a file named best.pt, which contains the computed weights using the YOLOv3 framework (ultralytics/yolov3) by the authors. The retrieved weights are parameters related to the employment of CONCORNET2023.  
