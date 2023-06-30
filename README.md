@@ -1,11 +1,11 @@
 # HWTBench (Hamburg Wheel Tracking on Asphalt Samples Dataset for ML Benchmarking)
 
 ## Description: 📝
-The HWTBench dataset is a comprehensive collection of asphalt samples that have been tested using the Hamburg Wheel Machine (HWM) across multiple load stages. This dataset has been meticulously generated and curated for the purpose of benchmarking machine learning applications in the field of asphalt analysis and characterization.
+The HWTBench dataset is a comprehensive collection of asphalt samples tested using the Hamburg Wheel Machine (HWM) across multiple load stages. This dataset has been meticulously generated and curated for benchmarking machine learning applications in asphalt analysis and characterization.
 
 The Hamburg Wheel Machine (HWM) is a well-established testing device specifically designed to simulate the effects of traffic loads on asphalt materials. It applies cyclic loads and wheel abrasion to assess the performance and durability of asphalt samples under various conditions. The dataset contains a wide range of asphalt specimens that have experienced rigorous testing on the HWM, providing diverse scenarios for machine learning evaluation.
 
-The HWTBench dataset offers a valuable resource for researchers, engineers, and data scientists working on machine-learning models for asphalt performance prediction and material analysis. This dataset allows users to develop and validate novel algorithms, models, and techniques for asphalt quality assessment and prediction.
+The HWTBench dataset offers a valuable resource for researchers, engineers, and data scientists working on machine-learning models for asphalt performance prediction and material analysis. This dataset allows users to develop and validate novel algorithms, models, and asphalt quality assessment and prediction techniques.
 
 ## Dataset Title: 😀👌
 HWTBench (Hamburg Wheel Tracking on Asphalt Samples Dataset for ML Benchmarking)
@@ -35,6 +35,7 @@ https://orcid.org/0000-0003-3119-770X
 <br />
 
 ## Description of files: ✍️
-The repository contains a directory named Images, which contains the asphalt sample images tested by the HWM. In three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension.
+The repository contains a directory named Images, which includes the asphalt sample images tested by the HWM. The dataset is divided into two sub-directories, train (899) and test(297). All the images are two-dimensional color images with .jpg extension with high resolution. 
 
-Also, this repository stores a file named best.pt, which contains the computed weights using the YOLOv3 framework (ultralytics/yolov3) by the authors. The retrieved weights are parameters related to the employment of CONCORNET2023.  
+## Definition of acronyms: ✨👨‍💼
+CONCORNET2023: Concrete Corrosion Network 2023.
