@@ -39,4 +39,4 @@ https://orcid.org/0000-0003-3119-770X
 The repository contains a directory named Images, which includes the asphalt sample images tested by the HWM. The dataset is divided into two sub-directories, train (899) and test(297). All the images are two-dimensional color images with .jpg extension with high resolution. 
 
 ## Definition of acronyms: ✨👨‍💼
-CONCORNET2023: Concrete Corrosion Network 2023.
+HWTBench2023: Hamburg Wheel Tracking Benchmark
