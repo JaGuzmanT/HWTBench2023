@@ -35,7 +35,7 @@ https://orcid.org/0000-0003-3119-770X
 - *M.C. José O. Melchor-Barriga* <br />
 <br />
 
-## Description of files: ✍️
+## Description of the files: ✍️
 The repository contains a directory named Images, which includes the asphalt sample images tested by the HWM. The dataset is divided into two sub-directories, train (899) and test(297). All the images are two-dimensional color images with .jpg extension with high resolution. 
 
 ## Definition of acronyms: ✨👨‍💼
