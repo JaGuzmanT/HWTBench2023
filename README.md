@@ -43,7 +43,7 @@ HWTBench2023: Hamburg Wheel Tracking Benchmark
 
 ## Please cite the following paper if you use this dataset in your research:
 
-@article{, <br />
+@article{ <br />
 author = {José A. Guzmán-Torres, Luis A. Morales-Rosales, Ignacio Algredo-Badillo, Gerardo Tinoco-Guerrero, Mariana Lobato-Báez, Jose O. Melchor-Barriga}, <br />
 title = {Deep Learning Techniques for Multi-class Classification of Asphalt Damage Based on Hamburg-Wheel Tracking Test Results}, <br />
 journal = {Case Studies in Construction Materials}, <br />
@@ -51,3 +51,4 @@ year = {2023}
 volume = {e02378}, <br />
 ISSN ={ISSN 2214-5095}
 DOI = {https://doi.org/10.1016/j.cscm.2023.e02378.}
+}
