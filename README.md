@@ -36,7 +36,7 @@ https://orcid.org/0000-0003-3119-770X
 <br />
 
 ## Description of the files: ✍️
-The repository contains a directory named Images, which includes the asphalt sample images tested by the HWM. The dataset is divided into two sub-directories, train (899) and test(297). All the images are two-dimensional color images with .jpg extension with high resolution. 
+The repository contains a directory named Images, which includes the asphalt sample images tested by the HWM. The dataset is divided into two sub-directories, train (899) and test (297). All the images are two-dimensional color images with .jpg extension with high resolution. 
 
 ## Definition of acronyms: ✨👨‍💼
 HWTBench2023: Hamburg Wheel Tracking Benchmark
