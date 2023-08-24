@@ -50,5 +50,5 @@ journal = {Case Studies in Construction Materials}, <br />
 year = {2023}, <br />
 volume = {e02378}, <br />
 ISSN ={ISSN 2214-5095}, <br />
-DOI = {https://doi.org/10.1016/j.cscm.2023.e02378.}
+DOI = {https://doi.org/10.1016/j.cscm.2023.e02378. }
 }
